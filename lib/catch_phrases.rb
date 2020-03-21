@@ -14,7 +14,5 @@ def link
 end
 
 def all_phrases(catchphrase)
-  puts mario
-  puts toadstool
-  puts link
+  puts catchphrase
 end
