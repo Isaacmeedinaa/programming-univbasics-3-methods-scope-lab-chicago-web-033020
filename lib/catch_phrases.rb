@@ -13,6 +13,6 @@ def link
   puts quote
 end
 
-def all_phrases(catchphrase)
+def all_phrases
   puts catchphrase
 end
